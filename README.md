@@ -1,9 +1,16 @@
-  a. General description of the system.
-     to make sure the data may be shared or published and that it can be accurately interpreted by you in the future or by others.
+# README
+## a. General description of the system.
+it is student information system a web-based platform that assists educational institutions in moving student data online for simpler administration and increased transparency.
+##  b. Requirements of the system for the integration.
 
-  b. Requirements of the system for the integration.
+-
+- 
+- 
+- 
+- 
 
-  c. Installation guide.
 
+##  c. Installation guide.
 
-  d. System status if it is still in development. Indicate the unfinished features of your project.
+##  d. System status if it is still in development. Indicate the unfinished features of your project.
+
